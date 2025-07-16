@@ -1,4 +1,4 @@
-# SenzMate AIoT Knowledge Agent
+#  AIoT Knowledge Agent
 
 A simple agentic application that answers questions about AIoT, SenzMate products, and IoT best practices using Retrieval-Augmented Generation (RAG) with web search.
 
